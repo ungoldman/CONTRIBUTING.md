@@ -1,8 +1,10 @@
 # open-2-contributing
 
-template for "OPEN Open Source Project" contributing guidelines
+"OPEN Open Source Project" contributing guidelines.
 
 See [CONTRIBUTING.md](CONTRIBUTING.md)
+
+Contributions welcome :)
 
 ## Credit
 
