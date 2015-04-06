@@ -2,9 +2,11 @@
 
 "OPEN Open Source Project" contributing guidelines.
 
-See [CONTRIBUTING.md](CONTRIBUTING.md)
-
 Contributions welcome :)
+
+## Usage
+
+Copy [CONTRIBUTING.md](CONTRIBUTING.md) into your project.
 
 ## Credit
 
