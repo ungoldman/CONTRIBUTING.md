@@ -10,7 +10,7 @@ Copy [CONTRIBUTING.md](CONTRIBUTING.md) into your project.
 
 ## Credit
 
-This was originally based on of [rvagg](https://github.com/rvagg)'s "OPEN Open Source Project" contributing guidelines, first spotted at [rvagg/ghauth](https://github.com/rvagg/ghauth/blob/v2.0.0/CONTRIBUTING.md).
+This document is based in part on [rvagg](https://github.com/rvagg)'s ["OPEN Open Source Project"](https://github.com/openopensource/openopensource.github.io) contributing guidelines.
 
 ## License
 
