@@ -1,6 +1,6 @@
 # open-2-contributing
 
-"OPEN Open Source Project" contributing guidelines.
+A `CONTRIBUTING.md` boilerplate for open source contributing and collaborating guidelines.
 
 Contributions welcome :)
 
@@ -10,7 +10,7 @@ Copy [CONTRIBUTING.md](CONTRIBUTING.md) into your project.
 
 ## Credit
 
-First spotted at [rvagg/ghauth](https://github.com/rvagg/ghauth/blob/v2.0.0/CONTRIBUTING.md)
+This was originally based on of [rvagg](https://github.com/rvagg)'s "OPEN Open Source Project" contributing guidelines, first spotted at [rvagg/ghauth](https://github.com/rvagg/ghauth/blob/v2.0.0/CONTRIBUTING.md).
 
 ## License
 
