@@ -1,4 +1,4 @@
-# open-2-contributing
+# contributing
 
 A `CONTRIBUTING.md` boilerplate for open source contributing and collaborating guidelines.
 
@@ -10,7 +10,7 @@ Copy [CONTRIBUTING.md](CONTRIBUTING.md) into your project.
 
 ## Credit
 
-This document is based in part on [rvagg](https://github.com/rvagg)'s ["OPEN Open Source Project"](https://github.com/openopensource/openopensource.github.io) contributing guidelines.
+This document is based in part on the [OPEN Open Source Project](http://openopensource.org/) template and [jden](https://github.com/jden)'s [CONTRIBUTING.md](https://github.com/jden/CONTRIBUTING.md) template.
 
 ## License
 
