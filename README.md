@@ -1,8 +1,8 @@
-# contributing
+# CONTRIBUTING.md
 
-A `CONTRIBUTING.md` boilerplate for open source contributing and collaborating guidelines.
+A boilerplate for open source [contributing guidelines](https://help.github.com/articles/setting-guidelines-for-repository-contributors/).
 
-Contributions welcome :)
+Contributions welcome!
 
 ## Usage
 
@@ -10,8 +10,8 @@ Copy [CONTRIBUTING.md](CONTRIBUTING.md) into your project.
 
 ## Credit
 
-This document is based in part on the [OPEN Open Source Project](http://openopensource.org/) template and [jden](https://github.com/jden)'s [CONTRIBUTING.md](https://github.com/jden/CONTRIBUTING.md) template.
+This document draws from the [OPEN Open Source Project](http://openopensource.org/), [jden](https://github.com/jden)'s [CONTRIBUTING.md](https://github.com/jden/CONTRIBUTING.md), and the [Friends](https://github.com/moose-team/friends) and [WebTorrent.app](https://github.com/feross/webtorrent-app/blob/master/CONTRIBUTING.md) contributing guidelines.
 
 ## License
 
-[CC0](https://creativecommons.org/publicdomain/zero/1.0/)
+[CC-1.0](https://creativecommons.org/publicdomain/zero/1.0/)
