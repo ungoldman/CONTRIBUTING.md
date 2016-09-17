@@ -12,6 +12,10 @@ Copy [CONTRIBUTING.md](CONTRIBUTING.md) into your project.
 
 This document draws from the [OPEN Open Source Project](http://openopensource.org/), [jden](https://github.com/jden)'s [CONTRIBUTING.md](https://github.com/jden/CONTRIBUTING.md), and the [Friends](https://github.com/moose-team/friends) and [WebTorrent.app](https://github.com/feross/webtorrent-app/blob/master/CONTRIBUTING.md) contributing guidelines.
 
+## See Also
+
+- [contribs](https://github.com/ungoldman/contribs)
+
 ## License
 
 [CC-1.0](https://creativecommons.org/publicdomain/zero/1.0/)
