@@ -10,7 +10,7 @@ Copy [CONTRIBUTING.md](CONTRIBUTING.md) into your project.
 
 ## Credit
 
-This document draws from the [OPEN Open Source Project](http://openopensource.org/), [jden](https://github.com/jden)'s [CONTRIBUTING.md](https://github.com/jden/CONTRIBUTING.md), and the [Friends](https://github.com/moose-team/friends) and [WebTorrent.app](https://github.com/feross/webtorrent-app/blob/master/CONTRIBUTING.md) contributing guidelines.
+The contents of this project's `CONTRIBUTING.md` file are drawn from [OPEN Open Source Project](http://openopensource.org/), [jden](https://github.com/jden)'s [CONTRIBUTING.md](https://github.com/jden/CONTRIBUTING.md), [Friends](https://github.com/moose-team/friends), [WebTorrent Desktop](https://github.com/feross/webtorrent-desktop/blob/master/CONTRIBUTING.md), and [shigeru](https://github.com/moonglum/shigeru/blob/master/CONTRIBUTING.md).
 
 ## See Also
 
